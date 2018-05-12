@@ -1,0 +1,37 @@
+_repo: History-of-the-Plague-in-London_17221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- Children's History
+gutenberg_issued: '2005-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- History -- 17th century -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Plague -- Fiction'
+title: History of the Plague in London
+url: http://www.gutenberg.org/ebooks/17221
