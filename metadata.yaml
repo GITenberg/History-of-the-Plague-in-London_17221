@@ -17,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17221#History-of-the-Plague-in-London
 gutenberg_bookshelf:
 - Historical Fiction
 - Children's History
